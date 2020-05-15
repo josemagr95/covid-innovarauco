@@ -66,7 +66,7 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 
 #### Descripción
 > Material: Melamina Vesto\
-> Costo: $X CLP (Por calcular)
+> Costo: $X CLP (Por calcular)\
 > Tiempo fabricación: (Por calcular)
 
 ***
