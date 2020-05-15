@@ -22,8 +22,8 @@ Redactar descripción.
 [Saber más del proyecto](/descansa-orejas/README.md)
 
 #### Descripción
-> Material:
-> Costo:
+> Material:\
+> Costo:\
 > Tiempo fabricación:
 
 ***
@@ -35,8 +35,8 @@ Redactar descripción.
 [Saber más del proyecto](/descansa-orejas/README.md)
 
 #### Descripción
-> Material:
-> Costo:
+> Material:\
+> Costo:\
 > Tiempo fabricación:
 
 ***
@@ -48,8 +48,8 @@ Redactar descripción.
 [Saber más del proyecto](/descansa-orejas/README.md)
 
 #### Descripción
-> Material:
-> Costo:
+> Material:\
+> Costo:\
 > Tiempo fabricación:
 
 ***
@@ -61,8 +61,8 @@ Redactar descripción.
 [Saber más del proyecto](/descansa-orejas/README.md)
 
 #### Descripción
-> Material:
-> Costo:
+> Material:\
+> Costo:\
 > Tiempo fabricación:
 
 ***
@@ -74,8 +74,8 @@ Redactar descripción.
 [Saber más del proyecto](/descansa-orejas/README.md)
 
 #### Descripción
-> Material:
-> Costo:
+> Material:\
+> Costo:\
 > Tiempo fabricación:
 
 ***
@@ -87,8 +87,8 @@ Redactar descripción.
 [Saber más del proyecto](/descansa-orejas/README.md)
 
 #### Descripción
-> Material:
-> Costo:
+> Material:\
+> Costo:\
 > Tiempo fabricación:
 
 ***
@@ -100,6 +100,6 @@ Redactar descripción.
 [Saber más del proyecto](/descansa-orejas/README.md)
 
 #### Descripción
-> Material:
-> Costo:
+> Material:\
+> Costo:\
 > Tiempo fabricación:
