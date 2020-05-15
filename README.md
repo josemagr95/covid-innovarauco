@@ -11,4 +11,95 @@ License][cc-by].
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
+## Descripción proyectos
+
+Redactar descripción.
  
+## Nombre proyecto (1)
+
+![Nombre proyecto](/descansa-orejas/images/descansa-orejas-1.jpg)
+
+[Saber más del proyecto](/descansa-orejas/README.md)
+
+#### Descripción
+> Material:
+> Costo:
+> Tiempo fabricación:
+
+***
+
+## Nombre proyecto (2)
+
+![Nombre proyecto](/descansa-orejas/images/descansa-orejas-1.jpg)
+
+[Saber más del proyecto](/descansa-orejas/README.md)
+
+#### Descripción
+> Material:
+> Costo:
+> Tiempo fabricación:
+
+***
+
+## Nombre proyecto (3)
+
+![Nombre proyecto](/descansa-orejas/images/descansa-orejas-1.jpg)
+
+[Saber más del proyecto](/descansa-orejas/README.md)
+
+#### Descripción
+> Material:
+> Costo:
+> Tiempo fabricación:
+
+***
+
+## Nombre proyecto (4)
+
+![Nombre proyecto](/descansa-orejas/images/descansa-orejas-1.jpg)
+
+[Saber más del proyecto](/descansa-orejas/README.md)
+
+#### Descripción
+> Material:
+> Costo:
+> Tiempo fabricación:
+
+***
+
+## Nombre proyecto (5)
+
+![Nombre proyecto](/descansa-orejas/images/descansa-orejas-1.jpg)
+
+[Saber más del proyecto](/descansa-orejas/README.md)
+
+#### Descripción
+> Material:
+> Costo:
+> Tiempo fabricación:
+
+***
+
+## Nombre proyecto (6)
+
+![Nombre proyecto](/descansa-orejas/images/descansa-orejas-1.jpg)
+
+[Saber más del proyecto](/descansa-orejas/README.md)
+
+#### Descripción
+> Material:
+> Costo:
+> Tiempo fabricación:
+
+***
+
+## Nombre proyecto (7)
+
+![Nombre proyecto](/descansa-orejas/images/descansa-orejas-1.jpg)
+
+[Saber más del proyecto](/descansa-orejas/README.md)
+
+#### Descripción
+> Material:
+> Costo:
+> Tiempo fabricación:
