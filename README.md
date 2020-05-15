@@ -11,9 +11,13 @@ License][cc-by].
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-## Descripción proyectos
+## Descripción:
 
-Redactar descripción.
+Este repositorio unifica los prototipos desarrollados por el equipo del área de Innovación de Arauco y los disponibiliza para el uso público de las comunidades. Cada uno de los proyectos cuenta con una ficha técnica explicativa sobre su uso y principales características, además de los archivos 3D en diversos formatos para ser descargados.
+
+Los proyectos surgen a partir de la plataforma colaborativa creada por Arauco en el marco del desafío Covid 19, que hace un llamado para conectar a los emprendedores e innovadores que se encuentran en el ecosistema de innovación para que ayuden a buscar iniciativas con el fin de luchar contra el Covid 19 y las externalidades generadas por la compleja situación de la pandemia. [Desafío Covid 19 Arauco](https://arauco.brightidea.com/covid19).
+
+Como área de Innovación de Arauco queremos poner a disposición pública los distintos diseños y proyectos de nuestra plataforma. Esperamos que esto permita aportar a las comunidades y colaborar, por lo que estaremos atentos a cualquier recomendación, feedback y experiencias de uso.
  
 ## Nombre proyecto (1)
 
