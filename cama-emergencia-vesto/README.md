@@ -14,9 +14,6 @@ Descripción
 3D Formato 3DM (Rhinoceros) 
 [cama-emergencia-vesto.3dm](https://github.com/josemagr95/covid-innovarauco/raw/master/cama-emergencia-vesto/cad/3dm/cama-emergencia-vesto.3dm)
 
-3D Formato STL (Impresión 3D) 
-[cama-emergencia-vesto.stl](https://github.com/josemagr95/covid-innovarauco/raw/master/cama-emergencia-vesto/cad/stl/cama-emergencia-vesto.stl)
-
 3D Formato DXF (Archivo de corte) 
 [cama-emergencia-vesto.dxf](https://github.com/josemagr95/covid-innovarauco/raw/master/cama-emergencia-vesto/cad/dxf/cama-emergencia-vesto.dxf)
 
