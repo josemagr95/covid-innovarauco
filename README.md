@@ -45,16 +45,16 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 
 ***
 
-## Nombre proyecto (3)
+## Llave sin contacto (3)
 
-![Nombre proyecto](/descansa-orejas/images/descansa-orejas-1.jpg)
+![Nombre proyecto](/llave-sin-contacto/images/llave-sin-contacto-1.jpg)
 
-[Saber más del proyecto](/descansa-orejas/README.md)
+[Saber más del proyecto](/llave-sin-contacto/README.md)
 
 #### Descripción
-> Material:\
-> Costo:\
-> Tiempo fabricación:
+> Material: Impresión 3D Material PLA Cooper 3D\
+> Costo: $500 CLP\
+> Tiempo fabricación: 35 minutos
 
 ***
 
