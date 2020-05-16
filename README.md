@@ -97,11 +97,11 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 
 ***
 
-## Tabique Vesto
+## Divisor Vesto
 
-![Tabique Vesto](/tabique-vesto/images/tabique-vesto-1.jpg)
+![Divisor Vesto](/divisor-vesto/images/divisor-vesto-180-1.jpg)
 
-[Saber más del proyecto](/tabique-vesto/README.md)
+[Saber más del proyecto](/divisor-vesto/README.md)
 
 #### Descripción
 > Material:\
