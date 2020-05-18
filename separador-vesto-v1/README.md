@@ -1,6 +1,6 @@
-# Separador Casinos Vesto
+# Separador Casinos Vesto v1
 
-![Separador Casinos Vesto](/separador-vesto-v1/images/separador-vesto-v1-1.jpg)
+![Separador Casinos Vesto v1](/separador-vesto-v1/images/separador-vesto-v1-1.jpg)
 
 <!-- ## Descripción
  -->
