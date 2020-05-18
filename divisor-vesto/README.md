@@ -2,9 +2,9 @@
 
 ![Divisor Vesto](/divisor-vesto/images/divisor-vesto-180-1.jpg)
 
-## Descripción
+<!-- ## Descripción
 
-Descripción
+Descripción -->
 
 ## Archivos descargables
 #### Divisor Vesto 180
@@ -18,8 +18,8 @@ Descripción
 3D Formato DXF (Archivo de corte) 
 [divisor-vesto-180.dxf](https://github.com/josemagr95/covid-innovarauco/raw/master/divisor-vesto/cad/dxf/divisor-vesto-180.dxf)
 
-Ficha técnica (Archivo PDF) 
-[divisor-vesto-180.pdf](https://github.com/josemagr95/covid-innovarauco/raw/master/divisor-vesto/docs/divisor-vesto-180.pdf)  
+<!-- Ficha técnica (Archivo PDF) 
+[divisor-vesto-180.pdf](https://github.com/josemagr95/covid-innovarauco/raw/master/divisor-vesto/docs/divisor-vesto-180.pdf)   -->
 
 ***
 
@@ -36,8 +36,8 @@ Ficha técnica (Archivo PDF)
 3D Formato DXF (Archivo de corte) 
 [divisor-vesto-90.dxf](https://github.com/josemagr95/covid-innovarauco/raw/master/divisor-vesto/cad/dxf/divisor-vesto-90.dxf)
 
-Ficha técnica (Archivo PDF) 
-[divisor-vesto-90.pdf](https://github.com/josemagr95/covid-innovarauco/raw/master/divisor-vesto/docs/divisor-vesto-90.pdf)  
+<!-- Ficha técnica (Archivo PDF) 
+[divisor-vesto-90.pdf](https://github.com/josemagr95/covid-innovarauco/raw/master/divisor-vesto/docs/divisor-vesto-90.pdf)   -->
 
 ***
 

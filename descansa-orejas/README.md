@@ -4,7 +4,10 @@
 
 ## Descripción
 
-Descripción
+Accesorio que se puede añadir a cualquier mascarilla para reducir la molestia en la parte de las orejas, está dirigido aquellas personas que tengan que usar las mascarillas por largas horas.
+
+Esta iniciativa se encuentra en la plataforma:
+[Descansador de Orejas para Mascarillas (D1243)](https://arauco.brightidea.com/D1243)
 
 ## Archivos descargables
 
@@ -19,6 +22,14 @@ Descripción
 
 Ficha técnica (Archivo PDF) 
 [descansa-orejas.pdf](https://github.com/josemagr95/covid-innovarauco/raw/master/descansa-orejas/docs/descansa-orejas.pdf)  
+
+***
+
+## Imágenes
+
+![Descansa Orejas](/descansa-orejas/images/descansa-orejas-2.jpg)
+
+![Descansa Orejas](/descansa-orejas/images/descansa-orejas-3.jpg)
 
 ***
 

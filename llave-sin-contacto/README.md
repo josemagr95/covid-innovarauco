@@ -6,6 +6,8 @@
 
 Descripción
 
+Accesorio antimicrobiano con forma de llave con el que podemos tocar manillas de puertas sin riesgo a infectarnos y evitar así los contagios. Se recomienda que la impresión 3D de este dispositivo se realice con Filamento PLA AntiBacterial de la empresa Copper 3D. 
+
 ## Archivos descargables
 
 3D Formato STEP 

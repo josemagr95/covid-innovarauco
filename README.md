@@ -26,9 +26,9 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 [Saber más del proyecto](/cubrecara/README.md)
 
 #### Descripción
-> Material:\
-> Costo:\
-> Tiempo fabricación:
+> Material: Impresión 3D PLA y mica transparente\
+> Costo: $5.000\
+> Tiempo fabricación: 45 minutos
 
 ***
 
@@ -78,9 +78,9 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 [Saber más del proyecto](/separador-vesto-v1/README.md)
 
 #### Descripción
-> Material:\
-> Costo:\
-> Tiempo fabricación:
+> Material: Melamina Vesto\
+> Costo: $X CLP (Por calcular)\
+> Tiempo fabricación: (Por calcular)
 
 ***
 
@@ -91,9 +91,9 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 [Saber más del proyecto](/separador-vesto-v2/README.md)
 
 #### Descripción
-> Material:\
-> Costo:\
-> Tiempo fabricación:
+> Material: Melamina Vesto\
+> Costo: $X CLP (Por calcular)\
+> Tiempo fabricación: (Por calcular)
 
 ***
 
@@ -104,6 +104,6 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 [Saber más del proyecto](/divisor-vesto/README.md)
 
 #### Descripción
-> Material:\
-> Costo:\
-> Tiempo fabricación:
+> Material: Melamina Vesto\
+> Costo: $X CLP (Por calcular)\
+> Tiempo fabricación: (Por calcular)

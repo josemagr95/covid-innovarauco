@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Descripción
+Se propone la producción de una cama con propiedades antimicrobiales que de solución a las necesidades de recursos para alojar pacientes en situaciones de emergencia a través de un diseño de rápida producción.
 
 ## Archivos descargables
 
