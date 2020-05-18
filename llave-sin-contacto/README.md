@@ -32,6 +32,8 @@ Ficha técnica (Archivo PDF)
 
 ![Llave sin contacto](/llave-sin-contacto/images/llave-sin-contacto-4.jpg)
 
+![Llave sin contacto](/llave-sin-contacto/images/llave-sin-contacto-5.jpg)
+
 ***
 
 Licencia: [![CC BY 4.0][cc-by-shield]][cc-by]
