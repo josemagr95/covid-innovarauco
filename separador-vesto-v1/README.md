@@ -17,8 +17,8 @@
 3D Formato DXF (Archivo de corte) 
 [separador-vesto-v1.dxf](https://github.com/josemagr95/covid-innovarauco/raw/master/separador-vesto-v1/cad/dxf/separador-vesto-v1.dxf)
 
-Ficha técnica (Archivo PDF) 
-[separador-vesto-v1.pdf](https://github.com/josemagr95/covid-innovarauco/raw/master/separador-vesto-v1/docs/separador-vesto-v1.pdf)  
+<!-- Ficha técnica (Archivo PDF) 
+[separador-vesto-v1.pdf](https://github.com/josemagr95/covid-innovarauco/raw/master/separador-vesto-v1/docs/separador-vesto-v1.pdf)   -->
 
 ***
 
