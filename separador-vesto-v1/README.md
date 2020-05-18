@@ -2,9 +2,16 @@
 
 ![Separador Casinos Vesto v1](/separador-vesto-v1/images/separador-vesto-v1-1.jpg)
 
-<!-- ## Descripción
- -->
+## Descripción
 
+Separadores para mesas de comedores y casinos, hechos con melamina VESTO, que tiene propiedad antibacteriales y virales.
+
+Los comedores y casinos son lugares muy propicios para el contagio ya que las personas tienen poca separación en los comedores y para alimentarse deben sacarse la mascarilla.
+
+Este separador aisla a las personas mientras se alimentan.
+
+Esta iniciativa se encuentra en la plataforma:
+[Separadores para casinos y comedores (D1252)](https://arauco.brightidea.com/D1252)
 
 ## Archivos descargables
 

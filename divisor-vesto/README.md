@@ -2,9 +2,15 @@
 
 ![Divisor Vesto](/divisor-vesto/images/divisor-vesto-180-1.jpg)
 
-<!-- ## Descripción
+## Descripción
 
-Descripción -->
+Fabricación industrial a través de tableros de madera soluciones prefabricadas de módulos de separación a través del uso de material VESTO antibacterial. 
+
+Melamina VESTO, protección con el desarrollo de una exclusiva aplicación creada en base a tecnología InCopper, con efectivas propiedades antimicrobianas, capaz de eliminar el 99% de virus, bacterias, hongos y moho de su superficie en las primeras 2 horas de contacto a temperatura ambiente. Inactiva microbios en forma rápida y continua. Mantiene su efectividad después de múltiples procesos de limpieza. Seguro para las personas y amigable con el medio ambiente.
+
+Esta iniciativa se encuentra en la plataforma:
+[Paneles de Separación VESTO Antibacterial (D1232)](https://arauco.brightidea.com/D1232)
+
 
 ## Archivos descargables
 #### Divisor Vesto 180
