@@ -18,7 +18,15 @@ Elemento de equipo de protección personal, tiene como objetivo proteger toda la
 [cubrecara.stl](https://github.com/josemagr95/covid-innovarauco/raw/master/cubrecara/cad/stl/cubrecara.stl)
 
 Ficha técnica (Archivo PDF) 
-[cubrecara.pdf](https://github.com/josemagr95/covid-innovarauco/raw/master/cubrecara/docs/cubrecara.pdf)  
+[cubrecara.pdf](https://github.com/josemagr95/covid-innovarauco/raw/master/cubrecara/docs/cubrecara.pdf) 
+
+***
+
+## Imágenes
+
+<!-- ![Cubre Caras (Faceshield)](/cubrecara/images/cubrecara-2.jpg) -->
+
+![Cubre Caras (Faceshield)](/cubrecara/images/cubrecara-3.jpg)
 
 ***
 
