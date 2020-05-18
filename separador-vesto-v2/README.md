@@ -23,6 +23,18 @@ Ficha técnica (Archivo PDF)
 
 ***
 
+## Imágenes
+
+![Separador Casinos Vesto v2](/separador-vesto-v2/images/separador-vesto-v2-2.jpg)
+
+![Separador Casinos Vesto v2](/separador-vesto-v2/images/separador-vesto-v2-3.jpg)
+
+![Separador Casinos Vesto v2](/separador-vesto-v2/images/separador-vesto-v2-4.jpg)
+
+![Separador Casinos Vesto v2](/separador-vesto-v2/images/separador-vesto-v2-5.jpg)
+
+***
+
 Licencia: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
