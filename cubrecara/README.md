@@ -6,6 +6,9 @@
 
 Elemento de equipo de protección personal, tiene como objetivo proteger toda la cara del usuario de potenciales contagios a través de las partículas que se encuentren en el aire.
 
+Esta iniciativa se encuentra en la plataforma:
+[Cubrecaras (Faceshield) EPP (D1306)](https://arauco.brightidea.com/D1306)
+
 ## Archivos descargables
 
 3D Formato STEP 

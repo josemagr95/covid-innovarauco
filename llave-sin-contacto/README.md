@@ -4,9 +4,10 @@
 
 ## Descripción
 
-Descripción
-
 Accesorio antimicrobiano con forma de llave con el que podemos tocar manillas de puertas sin riesgo a infectarnos y evitar así los contagios. Se recomienda que la impresión 3D de este dispositivo se realice con Filamento PLA AntiBacterial de la empresa Copper 3D. 
+
+Esta iniciativa se encuentra en la plataforma:
+[Llave sin contacto (D1307)](https://arauco.brightidea.com/D1307)
 
 ## Archivos descargables
 
