@@ -4,11 +4,13 @@
 
 ## Descripción
 
-Separadores para mesas de comedores y casinos, hechos con melamina VESTO, que tiene propiedad antibacteriales y virales.
+Este proyecto está dentro de la categoría de unidades de aislamiento. Separadores para mesas de comedores y casinos, hechos con melamina VESTO, que tiene propiedad antibacteriales y virales.
 
 Los comedores y casinos son lugares muy propicios para el contagio ya que las personas tienen poca separación en los comedores y para alimentarse deben sacarse la mascarilla.
 
 Este separador aisla a las personas mientras se alimentan.
+
+Melamina VESTO, protección con el desarrollo de una exclusiva aplicación creada en base a tecnología InCopper, con efectivas propiedades antimicrobianas, capaz de eliminar el 99% de virus, bacterias, hongos y moho de su superficie en las primeras 2 horas de contacto a temperatura ambiente. Inactiva microbios en forma rápida y continua. Mantiene su efectividad después de múltiples procesos de limpieza. Seguro para las personas y amigable con el medio ambiente.
 
 Esta iniciativa se encuentra en la plataforma:
 [Separadores para casinos y comedores (D1252)](https://arauco.brightidea.com/D1252)

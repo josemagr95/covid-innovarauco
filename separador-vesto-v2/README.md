@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Kit que contiene un tablero antimicrobiano con separadores de acrílico que permite el distanciamiento social en diferentes situaciones. Ejemplos: los casinos/comedores, las oficinas, o los restaurantes. Esta solución permite aprovechar el mobiliario existente en los diferentes espacios, convirtiendose en un complemento para afrontar las situaciones Post-Covid19.
+Este proyecto está dentro de la categoría de unidades de aislamiento. Este kit que contiene un tablero antimicrobiano con separadores de acrílico que permite el distanciamiento social en diferentes situaciones. Ejemplos: los casinos/comedores, las oficinas, o los restaurantes. Esta solución permite aprovechar el mobiliario existente en los diferentes espacios, convirtiendose en un complemento para afrontar las situaciones Post-Covid19.
 
 Esta iniciativa se encuentra en la plataforma:
 [Separador ambientes VESTO + Acrílico (D1305)](https://arauco.brightidea.com/D1305)
