@@ -6,6 +6,8 @@
 
 Este proyecto está dentro de la categoría de unidades de aislamiento. Este kit que contiene un tablero antimicrobiano con separadores de acrílico que permite el distanciamiento social en diferentes situaciones. Ejemplos: los casinos/comedores, las oficinas, o los restaurantes. Esta solución permite aprovechar el mobiliario existente en los diferentes espacios, convirtiendose en un complemento para afrontar las situaciones Post-Covid19.
 
+Melamina VESTO, protección con el desarrollo de una exclusiva aplicación creada en base a tecnología InCopper, con efectivas propiedades antimicrobianas, capaz de eliminar el 99% de virus, bacterias, hongos y moho de su superficie en las primeras 2 horas de contacto a temperatura ambiente. Inactiva microbios en forma rápida y continua. Mantiene su efectividad después de múltiples procesos de limpieza. Seguro para las personas y amigable con el medio ambiente.
+
 Esta iniciativa se encuentra en la plataforma:
 [Separador ambientes VESTO + Acrílico (D1305)](https://arauco.brightidea.com/D1305)
 
