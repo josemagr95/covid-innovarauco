@@ -43,7 +43,7 @@ Esta iniciativa se encuentra en la plataforma:
 [adaptador-manilla-tubo.stp](https://github.com/josemagr95/covid-innovarauco/raw/master/adaptador-manilla/cad/step/adaptador-manilla-tubo.stp)
 
 3D Formato 3DM (Rhinoceros) 
-[adaptador-manilla-tubo.3dm](https://github.com/josemagr95/covid-innovarauco/raw/master/adaptador-manilla/cad/3dm/adaptador-tubo.3dm)
+[adaptador-manilla-tubo.3dm](https://github.com/josemagr95/covid-innovarauco/raw/master/adaptador-manilla/cad/3dm/adaptador-manilla-tubo.3dm)
 
 3D Formato STL (Impresión 3D) 
 [adaptador-manilla-tubo.stl](https://github.com/josemagr95/covid-innovarauco/raw/master/adaptador-manilla/cad/stl/adaptador-manilla-tubo.stl)
