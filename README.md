@@ -66,8 +66,8 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 
 #### Descripción
 > Material: Melamina Vesto\
-> Costo: $X CLP (Por calcular)\
-> Tiempo fabricación: (Por calcular)
+> Costo: $127.800 CLP\
+> Tiempo fabricación: 3 horas de corte CNC
 
 ***
 
@@ -92,8 +92,8 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 
 #### Descripción
 > Material: Melamina Vesto\
-> Costo: $X CLP (Por calcular)\
-> Tiempo fabricación: (Por calcular)
+> Costo: $104.990 CLP\
+> Tiempo fabricación: 1 hora de corte CNC
 
 ***
 
@@ -105,5 +105,18 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 
 #### Descripción
 > Material: Melamina Vesto\
+> Costo: $49.990 CLP\
+> Tiempo fabricación: 1 hora de corte CNC
+
+***
+
+## Adaptador manillas 
+
+![Adaptador manillas](/adaptador-manilla/images/adaptador-manilla-1.jpg)
+
+[Saber más del proyecto](/adaptador-manilla/README.md)
+
+#### Descripción
+> Material: Impresión 3D Material PLA Cooper 3D\
 > Costo: $X CLP (Por calcular)\
 > Tiempo fabricación: (Por calcular)
