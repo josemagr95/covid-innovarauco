@@ -2,6 +2,8 @@
 
 ![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-1.jpg)
 
+![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-6.jpg)
+
 ## Descripción
 
 Para disminuir la amenaza de propagación, se propone la creación de adaptadores de manijas que eliminan la necesidad de contacto directo. 
@@ -61,8 +63,6 @@ Esta iniciativa se encuentra en la plataforma:
 ![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-4.jpg)
 
 ![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-5.jpg)
-
-![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-6.jpg)
 
 ***
 
