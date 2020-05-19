@@ -23,7 +23,7 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 
 ![Cubrecara](/cubrecara/images/cubrecara-1.jpg)
 
-[Saber más del proyecto](/cubrecara/README.md)
+[Saber más del proyecto](/cubrecara/)
 
 #### Descripción
 > Material: Impresión 3D PLA y mica transparente\
@@ -36,7 +36,7 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 
 ![Descansa Orjeas](/descansa-orejas/images/descansa-orejas-1.jpg)
 
-[Saber más del proyecto](/descansa-orejas/README.md)
+[Saber más del proyecto](/descansa-orejas/)
 
 #### Descripción
 > Material: Impresión 3D PLA\
@@ -49,7 +49,7 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 
 ![Llave sin contacto](/llave-sin-contacto/images/llave-sin-contacto-1.jpg)
 
-[Saber más del proyecto](/llave-sin-contacto/README.md)
+[Saber más del proyecto](/llave-sin-contacto/)
 
 #### Descripción
 > Material: Impresión 3D Material PLA Cooper 3D\
@@ -62,7 +62,7 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 
 ![Cama Emergencia Vesto](/cama-emergencia-vesto/images/cama-emergencia-vesto-1.jpg)
 
-[Saber más del proyecto](/cama-emergencia-vesto/README.md)
+[Saber más del proyecto](/cama-emergencia-vesto/)
 
 #### Descripción
 > Material: Melamina Vesto\
@@ -75,7 +75,7 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 
 ![Separador Casinos Vesto v1](/separador-vesto-v1/images/separador-vesto-v1-1.jpg)
 
-[Saber más del proyecto](/separador-vesto-v1/README.md)
+[Saber más del proyecto](/separador-vesto-v1/)
 
 #### Descripción
 > Material: Melamina Vesto\
@@ -88,7 +88,7 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 
 ![Separador Casinos Vesto v2](/separador-vesto-v2/images/separador-vesto-v2-1.jpg)
 
-[Saber más del proyecto](/separador-vesto-v2/README.md)
+[Saber más del proyecto](/separador-vesto-v2/)
 
 #### Descripción
 > Material: Melamina Vesto\
@@ -101,7 +101,7 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 
 ![Divisor Vesto](/divisor-vesto/images/divisor-vesto-180-1.jpg)
 
-[Saber más del proyecto](/divisor-vesto/README.md)
+[Saber más del proyecto](/divisor-vesto/)
 
 #### Descripción
 > Material: Melamina Vesto\
@@ -114,7 +114,7 @@ Como área de Innovación de Arauco queremos poner a disposición pública los d
 
 ![Adaptador manillas](/adaptador-manilla/images/adaptador-manilla-1.jpg)
 
-[Saber más del proyecto](/adaptador-manilla/README.md)
+[Saber más del proyecto](/adaptador-manilla/)
 
 #### Descripción
 > Material: Impresión 3D Material PLA Cooper 3D\
