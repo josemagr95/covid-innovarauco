@@ -8,7 +8,7 @@
 
 Para disminuir la amenaza de propagación, se propone la creación de adaptadores de manijas que eliminan la necesidad de contacto directo. 
 
-Dispositivo que permite a las personas abrir pomos/manillas de puertas redondas con un brazo o un codo. El accesorio se ajusta directamente en manijas circulares. Se recomienda que la impresión 3D de este dispositivo se realice con Filamento PLA AntiBacterial de la empresa Copper 3D. 
+Dispositivo que permite a las personas abrir pomos/manillas de puertas con un brazo o un codo. El accesorio se ajusta directamente en manijas circulares o cilíndricas en tubo. Se recomienda que la impresión 3D de este dispositivo se realice con Filamento PLA AntiBacterial de la empresa Copper 3D. 
 
 Esta iniciativa se encuentra en la plataforma:
 [Adaptador manillas de puertas (D1308) ](https://arauco.brightidea.com/D1308)
