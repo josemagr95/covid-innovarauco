@@ -11,7 +11,7 @@ Dispositivo que permite a las personas abrir pomos/manillas de puertas redondas 
 Esta iniciativa se encuentra en la plataforma:
 [Adaptador manillas de puertas (D1308) ](https://arauco.brightidea.com/D1308)
 
-## Archivos descargables
+## Archivos descargables versión manilla tipo pomo
 
 3D Formato STEP Izquierdo 
 [adaptador-manilla-izquierdo.stp](https://github.com/josemagr95/covid-innovarauco/raw/master/adaptador-manilla/cad/step/adaptador-manilla-izquierdo.stp)
@@ -34,6 +34,18 @@ Esta iniciativa se encuentra en la plataforma:
 3D Formato STL Derecho (Impresión 3D) 
 [adaptador-manilla-derecho.stl](https://github.com/josemagr95/covid-innovarauco/raw/master/adaptador-manilla/cad/stl/adaptador-manilla-derecho.stl)
 
+***
+## Archivos descargables version manilla tipo tubo cilindro
+
+3D Formato STEP
+[adaptador-manilla-tubo.stp](https://github.com/josemagr95/covid-innovarauco/raw/master/adaptador-manilla/cad/step/adaptador-manilla-tubo.stp)
+
+3D Formato 3DM (Rhinoceros) 
+[adaptador-manilla-tubo.3dm](https://github.com/josemagr95/covid-innovarauco/raw/master/adaptador-manilla/cad/3dm/adaptador-tubo.3dm)
+
+3D Formato STL (Impresión 3D) 
+[adaptador-manilla-tubo.stl](https://github.com/josemagr95/covid-innovarauco/raw/master/adaptador-manilla/cad/stl/adaptador-manilla-tubo.stl)
+
 
 <!-- Ficha técnica (Archivo PDF) 
 [adaptador-manilla.pdf](https://github.com/josemagr95/covid-innovarauco/raw/master/adaptador-manilla/docs/adaptador-manilla.pdf)   -->
@@ -45,6 +57,12 @@ Esta iniciativa se encuentra en la plataforma:
 ![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-2.jpg)
 
 ![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-3.jpg)
+
+![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-4.jpg)
+
+![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-5.jpg)
+
+![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-6.jpg)
 
 ***
 
