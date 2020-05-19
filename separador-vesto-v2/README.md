@@ -14,8 +14,8 @@ Esta iniciativa se encuentra en la plataforma:
 3D Formato STEP 
 [separador-vesto-v2.stp](https://github.com/josemagr95/covid-innovarauco/raw/master/separador-vesto-v2/cad/step/separador-vesto-v2.stp)
 
-<!-- 3D Formato 3DM (Rhinoceros) 
-[separador-vesto-v2.3dm](https://github.com/josemagr95/covid-innovarauco/raw/master/separador-vesto-v2/cad/3dm/separador-vesto-v2.3dm) -->
+3D Formato 3DM (Rhinoceros) 
+[separador-vesto-v2.3dm](https://github.com/josemagr95/covid-innovarauco/raw/master/separador-vesto-v2/cad/3dm/separador-vesto-v2.3dm)
 
 3D Formato DXF (Archivo de corte) 
 [separador-vesto-v2.dxf](https://github.com/josemagr95/covid-innovarauco/raw/master/separador-vesto-v2/cad/dxf/separador-vesto-v2.dxf)
