@@ -6,7 +6,21 @@
 
 Este proyecto está dentro de la categoría de unidades de aislamiento. Fabricación industrial a través de tableros de madera soluciones prefabricadas de módulos de separación a través del uso de material VESTO antibacterial. 
 
+<p align="center">
+  <img width="50%" src="../separador-vesto-v1/images/vesto-logo.png">
+</p>
+
 Melamina VESTO, protección con el desarrollo de una exclusiva aplicación creada en base a tecnología InCopper, con efectivas propiedades antimicrobianas, capaz de eliminar el 99% de virus, bacterias, hongos y moho de su superficie en las primeras 2 horas de contacto a temperatura ambiente. Inactiva microbios en forma rápida y continua. Mantiene su efectividad después de múltiples procesos de limpieza. Seguro para las personas y amigable con el medio ambiente.
+
+<p align="center">
+  <img width="75%" src="../separador-vesto-v1/images/vesto-cobre.jpg">
+</p>
+
+VESTO es un tablero de partículas de densidad media (MDP) recubierto con un papel impregnado con resina melamínica la cual contiene micropartículas de  cobre, las que entregan la propiedad antimicrobiana a la superficie.
+
+El cobre, al ser aplicado durante el proceso de impregnación del papel antes de que este sea prensado al tablero, permite que la protección se mantenga en el tiempo a lo largo de toda la vida útil del producto, aún después de múltiples procesos de limpieza.
+
+Pruebas certificadas y realizadas bajo la norma ISO 22196 han demostrado que la protección de Cobre Antimicrobiano de VESTO inactiva el 99% las  bacterias en las primeras 2 horas de contacto con la superficie a temperatura ambiente.
 
 Esta iniciativa se encuentra en la plataforma:
 [Paneles de Separación VESTO Antibacterial (D1232)](https://arauco.brightidea.com/D1232)
