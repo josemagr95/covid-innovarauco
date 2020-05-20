@@ -56,13 +56,22 @@ Esta iniciativa se encuentra en la plataforma:
 
 ## Imágenes
 
+![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-9.jpg)
+
+![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-10.jpg)
+
 ![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-2.jpg)
 
 ![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-3.jpg)
 
+![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-7.jpg)
+
+![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-8.jpg)
+
 ![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-4.jpg)
 
 ![Adaptador de Manilla](/adaptador-manilla/images/adaptador-manilla-5.jpg)
+
 
 ***
 
